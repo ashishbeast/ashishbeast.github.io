@@ -3,13 +3,13 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "ashish bisht"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "A Physicist lost in the Mountains"
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: ""
+baseurl: "https://ashishbeast.github.io/"
 
 # The base hostname & protocol of your site for where absolute urls are needed.
 url: "https://ashishbeast.github.io"
@@ -25,11 +25,11 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /about/
+    url: /_pages/about/
   - text: Physics
-    url: /physics/
+    url: /_pages/physics/
   - text: Mountains/
-    url: /mountains/
+    url: /_pages/mountains/
   - text: Download
     url: https://github.com/ashishbeast.github.io
 
@@ -37,11 +37,11 @@ navigation:
 disqus: justgoodthemes
 
 # Colors
-accent_color: '#2d72d9'
+accent_color: '#ffffff'
 
 # Site footer
 footer:
-  content: "&copy; Ashish Bisht all rights reserved."
+  content: "&copy; Ashish Bisht Powered by Scriptor."
   has_social: true
 
 # Plugins
