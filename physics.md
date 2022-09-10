@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Physics 
+permalink: /physics.html
 description: This Section is dedicated to the Physics I am currently exploring via my PhD Research.
 ---
 

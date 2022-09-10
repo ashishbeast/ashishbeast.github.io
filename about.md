@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Ashish Bisht
+permalink: /about.html
 description: A small bio describing my work and interests.
 feature_image: images/author.jpg
 ---

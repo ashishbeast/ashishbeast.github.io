@@ -9,11 +9,11 @@ title: "ashish bisht"
 description: "A Physicist lost in the Mountains"
 
 # The subpath of your site, e.g. /blog, for generating urls.
-baseurl: "https://github.com/ashishbeast/ashishbeast.github.io"
+baseurl: 
 
 # The base hostname & protocol of your site for where absolute urls are needed.
-url: "https://ashishbeast.github.io"
-
+url: "https://ashishbeast.github.io/"
+  
 # Favicon
 favicon: images/favicon.png
 
@@ -25,11 +25,11 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /_pages/about/
+    url: /about/
   - text: Physics
-    url: /_pages/physics/
+    url: /physics/
   - text: Mountains/
-    url: /_pages/mountains/
+    url: /mountains/
   - text: Download
     url: https://github.com/ashishbeast.github.io
 
