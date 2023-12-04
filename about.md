@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: About Ashish Bisht
 permalink: /about.html
 description: A small bio describing my work and interests.

@@ -1,6 +1,6 @@
 ---
-layout: page
-title: The High Peaks  
+layout: default
+title: The High Peaks
 permalink: /mountains.html
 description: This Section is dedicated for the wild exploration of the Mountains.
 ---
